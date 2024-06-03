@@ -1,11 +1,11 @@
 +++
-title = "Creating and shipping a fast, user-friendly website crawler with Python, Scrapy, and PyInstaller"
-date = 2024-05-21
+title = "Semantic video search for social media content with Twelve Labs"
+date = 2024-05-25
 updated = 2024-05-28
-description = "In this blog post, a website crawler is made using Scrapy complete with a multi-platform installer and GUI using Gooey."
+description = "This blog post details how to set up a semantic search engine using Twelve Labs and a custom database of social media videos from Tiktok and Instagram"
 
 [taxonomies]
-tags = ["python", "web-scraping", "web-crawling"]
+tags = ["python", "ai", "llms", "video-understanding"]
 
 [extra]
 toc = true
