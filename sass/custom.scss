@@ -103,3 +103,17 @@ a:not(.no-hover-padding)::before {
 article p, article li, article details, article summary {
     font-family: var(--font-family);
 }
+
+article {
+    max-width: none;
+}
+
+
+article {
+    p,
+    li,
+    details,
+    summary {
+        font-weight: 200;
+    }
+}
