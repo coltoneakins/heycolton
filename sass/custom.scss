@@ -117,3 +117,12 @@ article {
         font-weight: 200;
     }
 }
+
+pre code::before {
+    background-color: #384547;
+}
+
+
+pre {
+    border: 1px solid #384547;
+}
