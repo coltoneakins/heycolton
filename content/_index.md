@@ -4,7 +4,7 @@ description = "Hey, I'm Colton: a Chicagoland software engineer who works for Gr
 template = "index.html"
 
 [extra]
-header = {title = "Hey, I'm Colton.", img = "me.jpeg", img_alt = "Artsy photo of Colton Eakins"}
+header = {title = "Hey, I'm Colton.", img = "me-round.png", img_alt = "Headshot photo of Colton Eakins"}
 section_path = "blog/_index.md"
 max_posts = 4
 
